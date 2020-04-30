@@ -1,0 +1,40 @@
+[1] Arjovsky, M., and Bottou, L. 2017. Towards principled meth-ods for training generative adversarial networks. arXiv preprintarXiv:1701.04862.
+[2] Brock, A.; Lim, T.; Ritchie, J. M.; and Weston, N. 2017.Smash: one-shot model architecture search through hypernet-works. arXiv preprint arXiv:1708.05344.
+[3] Cai, H.; Zhu, L.; and Han, S. 2018. Proxylessnas: Direct neuralarchitecture search on target task and hardware. arXiv preprintarXiv:1812.00332.
+[4] Chen, X.; Xie, L.; Wu, J.; and Tian, Q. 2019. Progressive dif-ferentiable architecture search: Bridging the depth gap betweensearch and evaluation. arXiv preprint arXiv:1904.12760.
+[5] Cubuk, E. D.; Zoph, B.; Mane, D.; Vasudevan, V.; and Le, Q. V.2018. Autoaugment: Learning augmentation policies from data.arXiv preprint arXiv:1805.09501.
+[6] Deng, J.; Dong, W.; Socher, R.; Li, L.-J.; Li, K.; and Fei-Fei,L. 2009.
+[7] Ghiasi, G.; Lin, T.-Y.; and Le, Q. V. 2019. Nas-fpn: LearningInscalable feature pyramid architecture for object detection.CVPR, 7036–7045.
+[8] Goodfellow, I.; Pouget-Abadie, J.; Mirza, M.; Xu, B.; Warde-Farley, D.; Ozair, S.; Courville, A.; and Bengio, Y. 2014.
+[9] Goyal, P.; Doll´ar, P.; Girshick, R.; Noordhuis, P.; Wesolowski,L.; Kyrola, A.; Tulloch, A.; Jia, Y.; and He, K. 2017. Accurate,large minibatch sgd: Training imagenet in 1 hour. arXiv preprintarXiv:1706.02677.
+[10] He, K.; Zhang, X.; Ren, S.; and Sun, J. 2016.
+[11] Howard, A. G.; Zhu, M.; Chen, B.; Kalenichenko, D.; Wang,W.; Weyand, T.; Andreetto, M.; and Adam, H. 2017. Mo-bilenets: Efﬁcient convolutional neural networks for mobile vi-sion applications. arXiv preprint arXiv:1704.04861.
+[12] Hu, J.; Shen, L.; and Sun, G. 2018. Squeeze-and-excitationnetworks. In Proceedings of the IEEE conference on computervision and pattern recognition, 7132–7141.
+[13] Huang, G.; Liu, Z.; Van Der Maaten, L.; and Weinberger,K. Q. 2017. Densely connected convolutional networks. In Pro-ceedings of the IEEE conference on computer vision and patternrecognition, 4700–4708.
+[14] Joglekar, M. R.; Li, C.; Adams, J. K.; Khaitan, P.; and Le,Q. V. 2019. Neural input search for large scale recommendationmodels. arXiv preprint arXiv:1907.04471.
+[15] Kingma, D. P., and Ba, J. 2014. Adam: A method for stochas-tic optimization. arXiv preprint arXiv:1412.6980.
+[16] Krizhevsky, A.; Nair, V.; and Hinton, G. 2009. Cifar-10 andcifar-100 datasets. URl: https://www. cs. toronto. edu/kriz/cifar.html 6.
+[19] Liu, C.; Chen, L.-C.; Schroff, F.; Adam, H.; Hua, W.; Yuille,A. L.; and Fei-Fei, L. 2019.
+[20] Liu, H.; Simonyan, K.; and Yang, Y. 2019.
+[21] Luo, R.; Tian, F.; Qin, T.; Chen, E.; and Liu, T.-Y. 2018.
+[22] Ma, N.; Zhang, X.; Zheng, H.-T.; and Sun, J. 2018. Shufﬂenetv2: Practical guidelines for efﬁcient cnn architecture design. InProceedings of the European Conference on Computer Vision(ECCV), 116–131.
+[23] Nayman, N.; Noy, A.; Ridnik, T.; Friedman, I.; Jin, R.; andZelnik-Manor, L. 2019. Xnas: Neural architecture search withexpert advice. arXiv preprint arXiv:1906.08031.
+[24] Noy, A.; Nayman, N.; Ridnik, T.; Zamir, N.; Doveh, S.; Fried-man, I.; Giryes, R.; and Zelnik-Manor, L. 2019. Asap: Architec-ture search, anneal and prune. arXiv preprint arXiv:1904.04123.
+[25] Pham, H.; Guan, M. Y.; Zoph, B.; Le, Q. V.; and Dean, J.2018. Efﬁcient neural architecture search via parameter sharing.arXiv preprint arXiv:1802.03268.
+[26] Real, E.; Aggarwal, A.; Huang, Y.; and Le, Q. V. 2019.
+[27] Russakovsky, O.; Deng, J.; Su, H.; Krause, J.; Satheesh, S.;Ma, S.; Huang, Z.; Karpathy, A.; Khosla, A.; Bernstein, M.;et al. 2015.
+[28] Sandler, M.; Howard, A.; Zhu, M.; Zhmoginov, A.; and Chen,L.-C. 2018. Mobilenetv2: Inverted residuals and linear bottle-In Proceedings of the IEEE Conference on Computernecks.Vision and Pattern Recognition, 4510–4520.
+[29] Srivastava, N.; Hinton, G.; Krizhevsky, A.; Sutskever, I.; andSalakhutdinov, R. 2014.
+[30] Stamoulis, D.; Ding, R.; Wang, D.; Lymberopoulos, D.;Priyantha, B.; Liu, J.; and Marculescu, D. 2019. Single-pathnas: Designing hardware-efﬁcient convnets in less than 4 hours.arXiv preprint arXiv:1904.02877.
+[31] Szegedy, C.; Vanhoucke, V.; Ioffe, S.; Shlens, J.; and Wojna,Z. 2016.
+[32] Tan, M., and Le, Q. V.2019. Efﬁcientnet: Rethinkingmodel scaling for convolutional neural networks. arXiv preprintarXiv:1905.11946.
+[33] Tan, M.; Chen, B.; Pang, R.; Vasudevan, V.; Sandler, M.;Howard, A.; and Le, Q. V. 2019.
+[34] Xie, S.; Zheng, H.; Liu, C.; and Lin, L. 2018. Snas: stochasticneural architecture search. arXiv preprint arXiv:1812.09926.
+[17] Lan, X.; Zhu, X.; and Gong, S. 2018. Self-referenced deeplearning. In Asian Conference on Computer Vision, 284–300.
+[35] Xie, S.; Kirillov, A.; Girshick, R.; and He, K. 2019. Exploringrandomly wired neural networks for image recognition. arXivpreprint arXiv:1904.01569.
+[18] Liu, C.; Zoph, B.; Neumann, M.; Shlens, J.; Hua, W.; Li, L.-J.; Fei-Fei, L.; Yuille, A.; Huang, J.; and Murphy, K. 2018.
+[37] Xu, Y.; Xie, L.; Zhang, X.; Chen, X.; Qi, G.-J.; Tian, Q.;and Xiong, H. 2019b. Pc-darts: Partial channel connectionsfor memory-efﬁcient differentiable architecture search. arXivpreprint arXiv:1907.05737.
+[38] Yao, Q.; Xu, J.; Tu, W.-W.; and Zhu, Z. 2019. Differen-tiable neural architecture search via proximal iterations. arXivpreprint arXiv:1905.13577.
+[39] Zhang, H.; Cisse, M.; Dauphin, Y. N.; and Lopez-Paz, D.arXiv2017. mixup: Beyond empirical risk minimization.preprint arXiv:1710.09412.
+[40] Zoph, B., and Le, Q. V. 2016. Neural architecture search withreinforcement learning. arXiv preprint arXiv:1611.01578.
+[41] Zoph, B.; Vasudevan, V.; Shlens, J.; and Le, Q. V. 2018.
